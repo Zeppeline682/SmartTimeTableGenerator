@@ -1,0 +1,8 @@
+# Prevent IDE indexing of heavy directories (chronolink_master_doc.md §14)
+node_modules/
+.venv/
+dist/
+__pycache__/
+chrono_audit_dump.txt
+slim_codebase.txt
+package-lock.json
